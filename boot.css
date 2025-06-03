@@ -1,0 +1,76 @@
+*{
+      font-family: "Inter", sans-serif;
+}
+.bannerContent h1{
+      font-size:42px;
+      font-weight: 700;
+}
+.bannerContent h1 span{
+      color:blue
+}
+.bannerContent p{
+      font-size:22px;
+}
+.bannerContent ul{
+      list-style: none;
+
+}
+.bannerContent ul li{
+      font-size:22px;
+}
+.bannerContent ul li i{
+      color:blue;
+}
+.bannerContentBtn button{
+      width:50%;
+      padding:10px 0px;
+      border-radius: 5px;
+
+}
+.bannerContentBtn button:first-child{
+      color:white;
+      background:linear-gradient( to right, #0ACEFE,blue);
+}
+.bannerForm{
+      padding:40px;
+
+}
+.bannerForm h3{
+      font-size: 18px;
+      font-weight: 700;
+
+}
+.bannerForm button{
+      width: 100%;
+      padding:10px 0px;
+       background:linear-gradient( to right, #0ACEFE,blue);
+       border: none;
+       color:white;
+}
+
+.counter-section h2{
+      font-size: 30px;
+      font-weight: 700;
+      color:blue;
+}
+.highlights-sections{
+      background-color: #F7FAFF;
+}
+.highlights-section  h2{
+      color:blue;
+      font-size: 36px;
+      font-weight:700;
+}
+.highlights-section p{
+      color: black !important;
+      font-size: 18px;
+}
+.highlightsItems h4{
+      color:blue !important
+      font-size: 20px;
+      font-weight:600;
+}
+.highlightsItems p{
+      font-weight: 15px;
+
+}
